@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://developer.apple.com/support/offering-account-deletion-in-your-app",
+      "title": "Apple: Offering account deletion in your app",
+      "accessed": "2026-08-12"
+    },
+    {
+      "id": 2,
+      "url": "https://developer.apple.com/app-store/app-privacy-details",
+      "title": "Apple: App privacy details",
+      "accessed": "2026-08-12"
+    },
+    {
+      "id": 3,
+      "url": "https://developer.apple.com/documentation/storekit/in-app-purchase",
+      "title": "Apple: In-App Purchase",
+      "accessed": "2026-08-12"
+    },
+    {
+      "id": 4,
+      "url": "https://support.google.com/googleplay/android-developer/answer/10281818?hl=en-GB",
+      "title": "Google Play payments policy",
+      "accessed": "2026-08-12"
+    },
+    {
+      "id": 5,
+      "url": "https://support.google.com/googleplay/android-developer/answer/10787469?hl=en-GB",
+      "title": "Google Play Data safety",
+      "accessed": "2026-08-12"
+    },
+    {
+      "id": 6,
+      "url": "https://developer.android.com/google/play/billing",
+      "title": "Google Play billing system",
+      "accessed": "2026-08-12"
+    }
+  ]
+}
